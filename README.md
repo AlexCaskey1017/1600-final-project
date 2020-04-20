@@ -1,10 +1,9 @@
 # Careers in IT
-___
 ### Alex Caskey
 ___
 #### [Information Technology](https://en.wikipedia.org/wiki/Information_technology) as you might know is commonly known as the study of computer systems. But today you will know it as the best career path for the 21st century.
 ___
-#### my targeted audience is those looking at joining the tech feild early on or changing to it later on in life.
+#### My targeted audience is those looking at joining the tech feild early on or changing to it later on in life.
 ___
 ### Money Talk
 How does the average salry of [60,000](https://www.payscale.com/research/US/Job=Information_Technology_Specialist/Salary) a year sound?
